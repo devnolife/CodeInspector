@@ -1,0 +1,36 @@
+Project Requirements: Simple Calculator
+
+Objective:
+Create a simple calculator program that can perform basic arithmetic operations.
+
+Functional Requirements:
+1. Implement four basic operations:
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+
+2. The program should:
+   - Accept two numbers as input
+   - Accept an operation symbol (+, -, *, /)
+   - Return the result of the calculation
+   - Handle division by zero gracefully
+
+3. Code Structure:
+   - Use functions to organize code
+   - Implement separate functions for each operation
+   - Include a main calculation dispatcher function
+
+4. Error Handling:
+   - Validate operation symbols
+   - Check for division by zero
+   - Provide meaningful error messages
+
+5. Testing:
+   - Include test cases demonstrating each operation
+   - Show example calculations in the main function
+
+Expected Output Format:
+- Display calculation results clearly
+- Use format: "a operation b = result"
+- Example: "5 + 3 = 8"
